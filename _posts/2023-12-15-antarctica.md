@@ -19,6 +19,6 @@ Antarctic ice shelves are the floating ice masses surrounding the Antarctic cont
 
 ![Screenshot]({{ site.url }}/assets/images/projects/sbi_ice/sbi_schematic.png)
 
-This project was incredibly rewarding, as it combined the implementation of a sufficiently fast simulator to apply simulation-based inference, not to mention the sophisticated data processing that is often involved with geoscientific data. However, in the end, we managed to obtain melting rates consistent with uniquely available independent measurements for Ekström Ice Shelf in Antarctica. [Check out the full paper](https://arxiv.org/abs/2312.02997) here, or drop me an email if you have any questions!
+This project was incredibly rewarding, as it combined the implementation of a sufficiently fast simulator to apply simulation-based inference, as well as extensive data processing that is often involved with geoscientific data. However, in the end, we managed to obtain melting rates consistent with uniquely available independent measurements for Ekström Ice Shelf in Antarctica. [Check out the full paper](www.cambridge.org/core/journals/journal-of-glaciology/article/simulationbased-inference-of-surface-accumulation-and-basal-melt-rates-of-an-antarctic-ice-shelf-from-isochronal-layers/F2D04200CC8792E0217B7FE0E42B31BA) in the Journal of Glaciology and the [code](https://github.com/mackelab/sbi-ice), or drop me an email if you have any questions!
 
 ___

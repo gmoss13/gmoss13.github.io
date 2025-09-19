@@ -42,6 +42,6 @@ With these components, we are able to estimate source distributions in a fast an
 
 ![Screenshot]({{ site.url }}/assets/images/projects/sourcerer/HH_figure.png)
 
-If this sounds interesting to you, feel free to get in touch! Also, check out [the full paper](https://arxiv.org/abs/2402.07808) and the great [blog post](https://transferlab.ai/pills/2024/sourcerer-maximum-entropy-distribution-estimation/) about it from TransferLab!
+If this sounds interesting to you, feel free to get in touch! Also, check out [the full paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a1caa7bf30226ac9370889d00cbd74da-Abstract-Conference.html), published in NeurIPS, and the [code](https://github.com/mackelab/sourcerer). The team at Transferlab also wrote a great [blog post](https://transferlab.ai/pills/2024/sourcerer-maximum-entropy-distribution-estimation/) about our work!
 
 ___

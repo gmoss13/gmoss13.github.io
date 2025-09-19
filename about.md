@@ -12,6 +12,7 @@ I am interested in a lot more things than I can write down here, but I am always
 	<li>Bayesian Inference</li>
 	<li>Generative Modeling</li>
 	<li>Optimal Transport</li>
+	<li>Neural Operators</li>
 </ul>
 
 
